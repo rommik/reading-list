@@ -5,6 +5,9 @@ The books I have read and would recommend to read. It is also a place to keep th
 * **The Architecture of Open Source Applications, Volume II: Structure, Scale, and a Few More Fearless Hacks** - http://a.co/aKag2QN 
 * **Clean Architecture: A Craftsman's Guide to Software Structure and Design** by Robert C. Martin - http://a.co/7FTH2dX
 * **The Pragmatic Programmer: From Journeyman to Master** by Andrew Hunt - http://a.co/fDtSmDc
+* **The Innovator's Dilemma: The Revolutionary Book That Will Change the Way You Do Business** 
+by Clayton M. Christensen - http://a.co/fNEdvWL
+* 
 
 ## Read
 ### Business
